@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/telas/login.dart';
-import 'package:flutter_application_1/telas/singup.dart';
+import 'package:flutter_application_1/view/login.dart';
+import 'package:flutter_application_1/view/singup.dart';
 
 class Home extends StatelessWidget {
   const Home({super.key});

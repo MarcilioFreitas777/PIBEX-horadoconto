@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/telas/home.dart';
-import 'package:flutter_application_1/telas/login.dart';
-import 'package:flutter_application_1/telas/singup.dart';
+import 'package:flutter_application_1/view/home.dart';
+import 'package:flutter_application_1/view/login.dart';
+import 'package:flutter_application_1/view/singup.dart';
 
 void main() {
   runApp(
-    MaterialApp(
+    const MaterialApp(
       home: Home(),
     ),
   );
